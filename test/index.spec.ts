@@ -8,7 +8,7 @@ describe('My test', async () => {
     },
   )
 
-  test('index page should be work', async () => {
+  test('index page should be work3', async () => {
     const html = await $fetch('/')
     expect(html).toMatch('Welcome to Nuxt!')
   })
