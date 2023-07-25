@@ -5,6 +5,9 @@
     "source.fixAll.eslint": true,
     "source.organizeImports": false
   },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
   "unocss.root": "packages/client",
   "eslint.validate": [
     "javascript",

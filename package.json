@@ -24,6 +24,7 @@
     "@types/node": "^18.16.19",
     "@unocss/nuxt": "^0.53.5",
     "eslint": "^8.44.0",
+    "eslint-plugin-prettier": "^5.0.0",
     "nuxt": "^3.6.2",
     "typescript": "^5.1.6",
     "vitest": "^0.33.0"
